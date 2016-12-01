@@ -1,0 +1,8 @@
+Step one, create new folder called basic_repo
+Step two, create a .txt, .html, .css files in that folder.
+Step three, create a local repo called basic_repo.
+Step four, add some content to the .txt file and then add, commit locally
+Step five, create a new repo on github and name it basic_repo
+Step six, copy the html address from github and push the local files to that address.
+Step seven, make some changes to the .txt file and then push those changes to github again.
+final step! Write a simple text file and upload it to CodingDojo.
